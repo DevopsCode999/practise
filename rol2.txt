@@ -1,5 +1,4 @@
 import java.util.io.*;
-
-int a=11;
+int a=10;
 
 
